@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="layout_small_margin" type="dimen">2dp</item>
+    <item name="layout_normal_margin" type="dimen">5dp</item>
+    <item name="layout_large_margin" type="dimen">10dp</item>
+
+    <item name="list_no_divider" type="dimen">0dp</item>
+
+    <item name="menu_item_layout_height" type="dimen">50dp</item>
+    <item name="menu_item_padding_start" type="dimen">6dp</item>
+    <item name="menu_item_padding_end" type="dimen">6dp</item>
+    <item name="menu_item_text_size" type="dimen">18sp</item>
+
+    <item name="channel_title_size" type="dimen">18sp</item>
+    <item name="item_title_size" type="dimen">16sp</item>
+    <item name="item_pub_date_size" type="dimen">14sp</item>
+    <item name="item_description_size" type="dimen">14sp</item>
+    <item name="divider_size" type="dimen">1dp</item>
+
+    <dimen name="navigation_drawer_width">240dp</dimen>
+
+</resources>

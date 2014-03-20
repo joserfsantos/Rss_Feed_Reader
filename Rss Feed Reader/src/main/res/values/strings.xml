@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BBC Rss Feed</string>
+    <string name="loading_rss_feed_from_bbc">Loading Rss Feed from BBC…</string>
+    <string name="error_title">Error</string>
+    <string name="error_generic_loading_rss_feed_from_bbc">Error loading Rss Feed from BBC. Please try again later.</string>
+    <string name="error_connectivity_loading_rss_feed_from_bbc">There is no internet connectivity. Please check the internet connectivity and try again.</string>
+    <string name="menu_action_refresh">Refresh</string>
+    <string name="iv_channel_image_description">Image of BBC Rss Feed</string>
+    <string name="iv_item_thumbnail_description">Image of item</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="choose_rss_feed">Choose Rss Feed</string>
+
+    <string name="menu_option_news">News</string>
+    <string name="menu_option_world">World</string>
+    <string name="menu_option_sport">Sport</string>
+    <string name="menu_option_uk">UK</string>
+    <string name="menu_option_england">England</string>
+    <string name="menu_option_northern_ireland">Northern Ireland</string>
+    <string name="menu_option_scotland">Scotland</string>
+    <string name="menu_option_wales">Wales</string>
+    <string name="menu_option_business">Business</string>
+    <string name="menu_option_politics">Politics</string>
+    <string name="menu_option_health">Health</string>
+    <string name="menu_option_education">Education</string>
+    <string name="menu_option_science_nature">Science/Nature</string>
+    <string name="menu_option_technology">Technology</string>
+    <string name="menu_option_entertainment">Entertainment</string>
+    <string name="menu_option_have_your_say">Have Your Say</string>
+    <string name="menu_option_magazine">Magazine</string>
+    <string name="menu_option_latest_published_stories">Latest Published Stories</string>
+
+</resources>
