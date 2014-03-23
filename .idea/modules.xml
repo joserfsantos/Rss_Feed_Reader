@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Rss Feed Reader/Rss Feed Reader.iml" filepath="$PROJECT_DIR$/Rss Feed Reader/Rss Feed Reader.iml" />
       <module fileurl="file://$PROJECT_DIR$/RssFeedReader.iml" filepath="$PROJECT_DIR$/RssFeedReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rss_Feed_Reader.iml" filepath="$PROJECT_DIR$/Rss_Feed_Reader.iml" />
     </modules>
   </component>
 </project>
