@@ -22,6 +22,7 @@ import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 
 /**
+ *
  * @author josericardosantos (Blue Cat Pixel)
  */
 public class GetRssFeedTask extends AsyncTaskLoader<RssFeedResponse> {
